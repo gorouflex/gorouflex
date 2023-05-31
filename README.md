@@ -3,7 +3,7 @@
   
 ### A Junior developer and translator
 
-[![Discord Badge](https://lanyard.cnrad.dev/api/857550997248802837?borderRadius=5px&animated=true&hideDiscrim=false&idleMessage=Immerse%20myself%20in%20creativity)](https://discord.com/users/857550997248802837)
+[![Discord Badge](https://lanyard.cnrad.dev/api/857550997248802837?borderRadius=5px&animated=true&hideDiscrim=false)](https://discord.com/users/857550997248802837)
 
 
 <picture>
