@@ -1,7 +1,6 @@
 <h1 align="center">
-  Hi i'm GorouFlex✨
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF741B&width=435&lines=A+Junior+Developer+and+Translator" alt="Typing SVG" /></a>
+<a href="https://github.com/gorouflex"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&multiline=true&repeat=false&width=500&height=80&lines=Hi+i'm+GorouFlex%E2%9C%A8;A+Junior+Developer+and+Translator" alt="Typing SVG" /></a>
   
  <a href="https://github.com/gorouflex">
    <img src="https://readme-stats-github-gorouflex.vercel.app/api?username=gorouflex&cc=000&tc=fff&ic=fff&bc=000">
