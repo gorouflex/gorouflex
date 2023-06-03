@@ -17,16 +17,5 @@
 <details>
 <summary>GitHub Stats</summary>
 <br>
-   
-<source
-  srcset="https://github-readme-stats-gorouflex.vercel.app/api?username=gorouflex&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-
-<source
-  srcset="https://github-readme-stats-gorouflex.vercel.app/api?username=gorouflex&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats-gorouflex.vercel.app/api?username=gorouflex&show_icons=true&theme=dark" />
 
 [![Top Langs](https://github-readme-stats-gorouflex.vercel.app/api/top-langs/?username=gorouflex&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
