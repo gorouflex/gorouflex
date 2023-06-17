@@ -1,6 +1,6 @@
 <h1 align="center">
   
-<a href="https://github.com/gorouflex"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=300&color=F7F7F7&center=true&multiline=true&width=500&height=75&lines=Hi+i'm+GorouFlex%E2%9C%A8;A+Junior+Developer+and+Translator" alt="Typing SVG" /></a>
+<a href="https://github.com/gorouflex"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=300&color=FF7F50&center=true&multiline=true&width=500&height=75&lines=Hi+i'm+GorouFlex%E2%9C%A8;A+Junior+Developer+and+Translator" alt="Typing SVG" /></a>
   
  <a href="https://github.com/gorouflex">
    <img src="https://readme-stats-github-gorouflex.vercel.app/api?username=gorouflex&cc=000&tc=fff&ic=fff&bc=000">
