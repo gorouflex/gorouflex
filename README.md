@@ -17,4 +17,4 @@
 <summary>GitHub Stats</summary>
 <br>
 
-[![Top Langs](https://github-readme-stats-gorouflex.vercel.app/api/top-langs/?username=gorouflex&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-gorouflex.vercel.app/api/top-langs/?username=gorouflex&layout=compact&theme=dark)]
