@@ -1,17 +1,22 @@
-<div align="center">
-  
-<a href="https://github.com/gorouflex"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=300&color=FF7F50&center=true&multiline=true&width=500&height=75&lines=Hi+i'm+GorouFlex%E2%9C%A8;A+Junior+Developer+and+Translator" alt="Typing SVG" /></a>
-  
+### I'm a junior developer and translator who loves to explore new things! 
+### 🚀 Excited to dive into the world of coding and language to enhance my skills 🌐 
+
  <a href="https://github.com/gorouflex">
    <img src="https://github-stats-alpha.vercel.app/api?username=gorouflex&cc=000&tc=fff&ic=fff&bc=000">
 
-### Contact
+![](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
+![](https://img.shields.io/badge/OS-macOS-blue?style=for-the-badge&logo=macos)
+![](https://img.shields.io/badge/Code-Python-coral?style=for-the-badge&logo=python)
+
+<details>
+ <summary>Social</summary>
+ <br>
+  
 [![Discord Badge](https://lanyard.cnrad.dev/api/857550997248802837?borderRadius=5px&animated=true&hideDiscrim=false)](https://discord.com/users/857550997248802837)
+</details>
 
 <details>
  <summary>GitHub Stats</summary>
  <br>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorouflex&layout=compact&theme=dark)
-
-</div>
