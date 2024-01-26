@@ -10,6 +10,28 @@
 ![Python](https://img.shields.io/badge/Code-Python-coral?style=for-the-badge&logo=python)
 
 <details>
+  <summary>Products</summary>
+
+| Repository |  Description | Codename (NEW) | Codename (OLD) | Project | G2SP |
+|    :---:     |    :---:   |  :---:   | :---:   | :---:   | :---:   | 
+| [HoneygainPot](https://github.com/gorouflex/HoneygainPot) | 🐝 Claim Honeygain’s lucky pot and achievement rewards every day with GitHub Actions 🔥 | Sandy | Sandivista | Project Sandy | ✅ |
+| [DuoXPy](https://github.com/gorouflex/DuoXPy) | ⚡️ XP farm and Streak keeper for Duolingo with GitHub Actions 🔥 | Sandy | SanDuo | Project Sandy | ✅ |
+| [Sandy](https://github.com/gorouflex/Sandy) | Official Documents and Information Repository for Project Sandy | / | / | Project Sandy | / |
+| [M413IA](https://github.com/gorouflex/M413IA) | Fully (94%) functioned hackintosh for Asus M413IA, supported from macOS Catalina to macOS Sonoma | M413IA | AMDLaptopHackintosh | Project AppleOSX | ✅ |
+| [LTPCX1Gen6](https://github.com/gorouflex/LTPCX1Gen6) | Lenovo ThinkPad Carbon X1 Gen 6 - Vanilla Bios | / | / | Project AppleOSX | / |
+| [KFD4XR](https://github.com/gorouflex/KFD4XR) | KFD for iPhone XR users. | / | / | Project AppleOSX | / |
+| [AFKBot](https://github.com/gorouflex/AFKBot) | A (Simple) bot that can prevent you from AFK during the match | SLE | Project M | Project SimpleTool | ✅ |
+| [PassGen](https://github.com/gorouflex/PassGen) | (Simple) Password Generator and Checker | SLE | Project PG | Project SimpleTool | ✅ |
+| [JikkerBot](https://github.com/gorouflex/JikkerBot) | JikkerBot (aka Trigger) help you aim better in some FPS games | SLE | TGBot | Project SimpleTool | ✅ |
+| [AFKBotLegacy](https://github.com/gorouflex/afkbotlegacy) | AFKBot but better ✨ | Liosk | Liosk | Project SimpleTool | / |
+| [ODB](https://github.com/gorouflex/ODB) | ODB - Project LandFall | LandFall | ODB | Project LandFall | / |
+| [vietnameseforcottonbuds](https://github.com/gorouflex/vietnameseforcottonbuds) | A Vietnamese translate for Cotton Buds | VNS4CBS | VNSTrans4CB | Project TransLang | / |
+
+- G2SP : GorouFlex Software Support Package
+  
+</details>
+
+<details>
   <summary>Social</summary>
   <br>
 
@@ -24,6 +46,6 @@
 <details>
   <summary>GitHub Stats</summary>
   <br>
-
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorouflex&layout=compact&theme=dark)
 </details>
