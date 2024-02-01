@@ -36,8 +36,8 @@
   <summary>Support me</summary>
   <br>
 
-<img src="/Img/QR.png">
-
+<img src="/Img/QR.png" width="300" height="300">
+<img src="/Img/QR2.png" width="300" height="300">
  
 </details>
 
