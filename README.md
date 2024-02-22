@@ -9,6 +9,22 @@
 ![macOS](https://img.shields.io/badge/OS-macOS-blue?style=for-the-badge&logo=macos)
 ![Python](https://img.shields.io/badge/Code-Python-coral?style=for-the-badge&logo=python)
 
+<details open>
+  <summary>About me</summary>
+    
+  ```
+----------------------------------------------
+Name: they call me "Pear Independence Jar"
+Nationality: Vietnamese
+Gender: Male
+Location: Nha Trang, Khanh Hoa, Vietnam
+Favorite song: 'White Night' and 'Hide Away'
+Languages: 'Python and a little bit of Pascal'
+-----------------------------------------------
+  ```
+
+  </summary>
+  
 <details>
   <summary>Products</summary>
 
@@ -17,12 +33,12 @@
 | [HoneygainPot](https://github.com/gorouflex/HoneygainPot) | 🐝 Claim Honeygain’s lucky pot and achievement rewards every day with GitHub Actions 🔥 | SandyPot | Sandivista | Project Sandy | ✅ |
 | [DuoXPy](https://github.com/gorouflex/DuoXPy) | ⚡️ XP farm and Streak keeper for Duolingo with GitHub Actions 🔥 | SanDuo | Sandy | Project Sandy | ✅ |
 | [Sandy](https://github.com/gorouflex/Sandy) | Official Documents and Information Repository for Project Sandy | SanRepo | / | Project Sandy | / |
-| [RielUXTU4Mac](https://github.com/gorouflex/RielUXTU4Mac) | UXTU but for macOS, supported for AMD Ryzen APUs and still in early stages | UXTU4Mac | UXTUFluter | Project AppleOSX | ✅ |
+| [UXTU4Mac](https://github.com/gorouflex/RielUXTU4Mac) | An AMD Ryzen APU/CPU power management adjustment for macOS/Hackintosh | UXTU4Mac | UXTUFluter | Project AppleOSX | ✅ |
 | [M413IA](https://github.com/gorouflex/M413IA) | Fully (94%) functioned hackintosh for Asus M413IA, supported from macOS Catalina to macOS Sonoma | M413IA | AMDLaptopHackintosh | Project AppleOSX | ✅ |
 | [LTPCX1Gen6](https://github.com/gorouflex/LTPCX1Gen6) | Lenovo ThinkPad Carbon X1 Gen 6 - Vanilla Bios | LNVTPX1G6 | / | Project AppleOSX | / |
 | [KFD4XR](https://github.com/gorouflex/KFD4XR) | KFD for iPhone XR users. | MakeXRGreatAgain | / | Project AppleOSX | / |
-| [AFKBot](https://github.com/gorouflex/AFKBot) | A (Simple) bot that can prevent you from AFK during the match | SimAFK | Project M | Project SimpleTool | ✅ |
-| [PassGen](https://github.com/gorouflex/PassGen) | (Simple) Password Generator and Checker | SimPG | Project PG | Project SimpleTool | ✅ |
+| [AFKBot](https://github.com/gorouflex/AFKBot) | A (Simple) bot that can prevent you from AFK during the match | SimAFK | Project M | Project SimpleTool | / |
+| [PassGen](https://github.com/gorouflex/PassGen) | (Simple) Password Generator and Checker | SimPG | Project PG | Project SimpleTool | / |
 | [JikkerBot](https://github.com/gorouflex/JikkerBot) | JikkerBot (aka Trigger) help you aim better in some FPS games | SimJik | TGBot | Project SimpleTool | ✅ |
 | [AFKBotLegacy](https://github.com/gorouflex/afkbotlegacy) | AFKBot but better ✨ | Liosk | Liosk | Project SimpleTool | / |
 | [ODB](https://github.com/gorouflex/ODB) | ODB - Project LandFall | LandFall | ODB | Project LandFall | / |
