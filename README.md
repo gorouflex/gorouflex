@@ -8,22 +8,6 @@
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
 ![macOS](https://img.shields.io/badge/OS-macOS-blue?style=for-the-badge&logo=macos)
 ![Python](https://img.shields.io/badge/Code-Python-coral?style=for-the-badge&logo=python)
-
-<details open>
-  <summary>About me</summary>
-    
-  ```
-----------------------------------------------
-Name: they call me "Pear Independence Jar"
-Nationality: Vietnamese
-Gender: Male
-Location: Nha Trang, Khanh Hoa, Vietnam
-Favorite song: 'White Night' and 'Hide Away'
-Languages: 'Python and a little bit of Pascal'
------------------------------------------------
-  ```
-
-  </summary>
   
 <details>
   <summary>Products</summary>
