@@ -17,7 +17,7 @@
 | [DuoXPy](https://github.com/gorouflex/DuoXPy) | ⚡️ XP farm and Streak keeper for Duolingo with GitHub Actions 🔥 | SanDuo | Sandy | Project Sandy | ✅ |
 | [Sandy](https://github.com/gorouflex/Sandy) | Official Documents and Information Repository for Project Sandy | SanRepo | / | Project Sandy | ✅ |
 | [UXTU4Unix](https://github.com/AppleOSX/UXTU4Unix) | djust power management settings for AMD Ryzen APUs, Universal x86 Tuning Utility for Hackintosh/macOS and Linux | UXTU4Mac | UXTUFluter | Project AppleOSX | ✅ |
-| [PatchSonomaWiFiOnTheFly](https://github.com/AppleOSX/PatchSonomaWiFiOnTheFly) | PSWFOTF | NativeSonomaOOBEWiFiPatch | Project AppleOSX | / |
+| [PatchSonomaWiFiOnTheFly](https://github.com/AppleOSX/PatchSonomaWiFiOnTheFly) | Patch modern Broadcom Wi-Fi card on the fly when doing a fresh install with macOS Sonoma | PSWFOTF | NativeSonomaOOBEWiFiPatch | Project AppleOSX | / |
 | [M413IA](https://github.com/gorouflex/M413IA) | Fully (94%) functioned hackintosh for Asus M413IA | M413IA | AMDLaptopHackintosh | Project AppleOSX | ✅ |
 | [LTPCX1Gen6](https://github.com/gorouflex/LTPCX1Gen6) | Lenovo ThinkPad Carbon X1 Gen 6 - Vanilla Bios | LNVTPX1G6 | / | Project AppleOSX | / |
 | [KFD4XR](https://github.com/gorouflex/KFD4XR) | KFD for iPhone XR users. | MakeXRGreatAgain | / | Project AppleOSX | / |
@@ -46,7 +46,6 @@
   <br>
 
   [![Discord Badge](https://lanyard.cnrad.dev/api/857550997248802837?borderRadius=5px&animated=true&hideDiscrim=false)](https://discord.com/users/857550997248802837)
-  [GFxMusic - GFx's Spotify Playlist](https://open.spotify.com/playlist/0bc2xA2GeGq82DOySKkwqv?si=fa8a7f154a5d4367)
   
 </details>
 
