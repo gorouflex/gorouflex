@@ -13,8 +13,7 @@
 
 | Repository |  Description | Codename (NEW) | Codename (OLD) | Project | G2SP |
 |    :---:     |    :---:   |  :---:   | :---:   | :---:   | :---:   | 
-| [HoneygainPot](https://github.com/gorouflex/HoneygainPot) | 🐝 Claim Honeygain’s lucky pot and achievement rewards every day with GitHub Actions 🔥 | SandyPot | Sandivista | Project Sandy | ✅ |
-| [DuoXPy](https://github.com/gorouflex/DuoXPy) | ⚡️ XP farm and Streak keeper for Duolingo with GitHub Actions 🔥 | SanDuo | Sandy | Project Sandy | ✅ |
+| [DuoXPy](https://github.com/gorouflex/DuoXPy) | ⚡️ XP farm and Streak keeper for Duolingo 🔥 | SanDuo | Sandy | Project Sandy | ✅ |
 | [Sandy](https://github.com/gorouflex/Sandy) | Official Documents and Information Repository for Project Sandy | SanRepo | / | Project Sandy | ✅ |
 | [UXTU4Unix](https://github.com/AppleOSX/UXTU4Unix) | djust power management settings for AMD Ryzen APUs, Universal x86 Tuning Utility for Hackintosh/macOS and Linux | UXTU4Mac | UXTUFluter | Project AppleOSX | ✅ |
 | [PatchSonomaWiFiOnTheFly](https://github.com/AppleOSX/PatchSonomaWiFiOnTheFly) | Patch modern Broadcom Wi-Fi card on the fly when doing a fresh install with macOS Sonoma | PSWFOTF | NativeSonomaOOBEWiFiPatch | Project AppleOSX | / |
