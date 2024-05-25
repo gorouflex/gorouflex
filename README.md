@@ -15,14 +15,13 @@
 |    :---:     |    :---:   |  :---:   | :---:   | :---:   | :---:   | 
 | [DuoXPy](https://github.com/gorouflex/DuoXPy) | ⚡️ XP farm and Streak keeper for Duolingo 🔥 | SanDuo | Sandy | Project Sandy | ✅ |
 | [Sandy](https://github.com/gorouflex/Sandy) | Official Documents and Information Repository for Project Sandy | SanRepo | / | Project Sandy | ✅ |
-| [UXTU4Unix](https://github.com/AppleOSX/UXTU4Unix) | djust power management settings for AMD Ryzen APUs, Universal x86 Tuning Utility for Hackintosh/macOS and Linux | UXTU4Mac | UXTUFluter | Project AppleOSX | ✅ |
+| [UXTU4Unix](https://github.com/AppleOSX/UXTU4Unix) | Adjust power management settings for AMD Ryzen APUs, Universal x86 Tuning Utility for Hackintosh/macOS and Linux | UXTU4Mac | UXTUFluter | Project AppleOSX | ✅ |
 | [PatchSonomaWiFiOnTheFly](https://github.com/AppleOSX/PatchSonomaWiFiOnTheFly) | Patch modern Broadcom Wi-Fi card on the fly when doing a fresh install with macOS Sonoma | PSWFOTF | NativeSonomaOOBEWiFiPatch | Project AppleOSX | / |
 | [M413IA](https://github.com/gorouflex/M413IA) | Fully (94%) functioned hackintosh for Asus M413IA | M413IA | AMDLaptopHackintosh | Project AppleOSX | ✅ |
 | [LTPCX1Gen6](https://github.com/gorouflex/LTPCX1Gen6) | Lenovo ThinkPad Carbon X1 Gen 6 - Vanilla Bios | LNVTPX1G6 | / | Project AppleOSX | / |
 | [KFD4XR](https://github.com/gorouflex/KFD4XR) | KFD for iPhone XR users. | MakeXRGreatAgain | / | Project AppleOSX | / |
 | [AFKBot](https://github.com/gorouflex/AFKBot) | A (Simple) bot that can prevent you from AFK during the match | SimAFK | Project M | Project SimpleTool | / |
 | [PassGen](https://github.com/gorouflex/PassGen) | (Simple) Password Generator and Checker | SimPG | Project PG | Project SimpleTool | / |
-| [JikkerBot](https://github.com/gorouflex/JikkerBot) | JikkerBot (aka Trigger) help you aim better in some FPS games | SimJik | TGBot | Project SimpleTool | / |
 | [AFKBotLegacy](https://github.com/gorouflex/afkbotlegacy) | AFKBot but better ✨ | Liosk | Liosk | Project SimpleTool | / |
 | [ODB](https://github.com/gorouflex/ODB) | ODB - Project LandFall | LandFall | ODB | Project LandFall | / |
 | [vietnameseforcottonbuds](https://github.com/gorouflex/vietnameseforcottonbuds) | A Vietnamese translate for Cotton Buds | VNS4CBS | VNSTrans4CB | Project TransLang | / |
