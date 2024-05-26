@@ -1,6 +1,6 @@
 ## Hi, i'm a junior developer and translator 💻
 
-<img src="Img/Logo.png">
+<img src="Img/Logo.png" width="150" height="150">
 <a href="https://github.com/gorouflex">
   <img src="https://github-stats-alpha.vercel.app/api?username=gorouflex&cc=000&tc=fff&ic=fff&bc=000">
 </a>
