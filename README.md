@@ -1,14 +1,27 @@
 ## Hi, i'm a junior developer and translator 💻
 
-<img src="Img/Logo.png" width="150" height="150">
+![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
+![macOS](https://img.shields.io/badge/OS-macOS-blue?style=for-the-badge&logo=macos)
+![Python](https://img.shields.io/badge/Code-Python-coral?style=for-the-badge&logo=python)
+
 <a href="https://github.com/gorouflex">
   <img src="https://github-stats-alpha.vercel.app/api?username=gorouflex&cc=000&tc=fff&ic=fff&bc=000">
 </a>
 
-![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
-![macOS](https://img.shields.io/badge/OS-macOS-blue?style=for-the-badge&logo=macos)
-![Python](https://img.shields.io/badge/Code-Python-coral?style=for-the-badge&logo=python)
+<details>
+  <summary>GorouFlex</summary>
+<img src="Img/Logo.png" width="150" height="150">
+</details>
+
+<details>
+  <summary>GitHub Stats</summary>
+  <br>
   
+  ![Stats](https://github-readme-stats.vercel.app/api?username=gorouflex&show_icons=true&theme=transparent)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorouflex&layout=compact&theme=dark)
+</details>
+
 <details>
   <summary>Products</summary>
 
@@ -48,11 +61,3 @@
   
 </details>
 
-<details>
-  <summary>GitHub Stats</summary>
-  <br>
-  
-  ![Stats](https://github-readme-stats.vercel.app/api?username=gorouflex&show_icons=true&theme=transparent)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorouflex&layout=compact&theme=dark)
-</details>
