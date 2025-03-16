@@ -11,11 +11,6 @@
 ![Python](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
 
 <details>
-  <summary>GorouFlex</summary>
-<img src="Img/Logo.png" width="150" height="150">
-</details>
-
-<details>
   <summary>Repositories</summary>
 
 | Repository |  Description | Codename | Project | G2SP |
@@ -49,15 +44,6 @@
   ![Stats](https://github-readme-stats.vercel.app/api?username=gorouflex&show_icons=true&theme=transparent)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorouflex&layout=compact&theme=dark)
-</details>
-
-<details>
-  <summary>Support</summary>
-  <br>
-
-<img src="/Img/QR.png" width="300" height="300">
-<img src="/Img/QR2.png" width="300" height="300">
- 
 </details>
 
 <details>
